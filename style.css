@@ -1,0 +1,62 @@
+.AA{
+    background-color: rgb(47, 195, 198);
+}
+
+.AB{
+width: 100px;
+height: 90px;
+}
+
+.AC:hover{
+color: black !important;
+}
+nav{
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 10;
+}
+
+.ACC{
+    border: 2px groove black !important;
+    transition: 1s;
+}
+.ACC:hover{
+    transform: scale(1.1);
+    transition: 0.6s; 
+    z-index: 1;
+}
+
+.navbar-toggler{
+    background-color: white !important;
+}
+
+.AD{
+    width: 260px !important;
+    height: 230px !important;
+}
+
+.AF{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.AG{
+    border: 10px groove black;
+}
+
+.AH{
+    background-color: rgb(246, 244, 244) !important;
+    display: inline-block !important;
+    width: 500px !important;
+    height: 100px !important;
+    text-align: center;
+    text-decoration: none;
+}
+.AI{
+    margin-left: 40px;
+}
+
+.AH:hover{
+    background-color: rgb(235, 235, 235) !important;
+}   
